@@ -25,7 +25,8 @@ Tech Stack
 
 Frontend: React (Vite)
 
-Styling: Tailwind CSS
+Styling: Tailwind CSS                                
+
 
 AI Model: Google Gemini 2.5 Flash
 
@@ -87,5 +88,17 @@ Settings: Use the "Configure API Key" button at the bottom of the screen to use 
 Deployment
 
 This project is configured to deploy automatically to GitHub Pages using GitHub Actions. Any push to the main branch triggers the build and deployment workflow defined in .github/workflows/deploy.yml.
+
+
+
+
+![WhatsApp Image 2026-02-07 at 00 40 07](https://github.com/user-attachments/assets/5cee4efb-f3fa-444b-b4d4-0c1efe38223c)
+
+
+<img width="454" height="822" alt="home" src="https://github.com/user-attachments/assets/a9bed1eb-b2f4-416d-be50-b770799281c6" />
+
+
+
+
 
 Project created for Hackathon 2026.
