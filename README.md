@@ -116,7 +116,6 @@ when an input is give , the following is obtained as an output
 
 
 
-![WhatsApp Image 2026-02-07 at 00 40 07](https://github.com/user-attachments/assets/5cee4efb-f3fa-444b-b4d4-0c1efe38223c)
 
 
 
