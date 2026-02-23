@@ -5,6 +5,7 @@ An AI food co-pilot that doesn't just explain ingredients — it explains decisi
 EatWise AI is an intelligent food analysis application that scans any food item — packaged products, raw ingredients, or fully cooked meals — and delivers a clear, human-readable verdict on whether it's safe and healthy to consume. Built at a hackathon by Team Just a Bot.
 
 ✨ Features
+
 🔍 Smart Food Scanning
 
 Scan any food — packaged items, raw produce, or cooked meals — via camera or image upload
