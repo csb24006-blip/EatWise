@@ -35,6 +35,7 @@ Healthier Alternatives — Suggests better food substitutes based on the analysi
 
 🛠️ Tech Stack
 Layer               |   Technology
+
 Frontend Framework  |  React (v18+) with Vite
 Styling             |   TailwindCSS (mobile-first, dynamic theming)
 Icons               |   Lucide React
