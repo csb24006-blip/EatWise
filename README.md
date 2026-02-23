@@ -37,12 +37,19 @@ Healthier Alternatives — Suggests better food substitutes based on the analysi
 Layer               |   Technology
 
 Frontend Framework  |  React (v18+) with Vite
+
 Styling             |   TailwindCSS (mobile-first, dynamic theming)
+
 Icons               |   Lucide React
+
 AI / LLM            |   Google Gemini 2.5 Flash API
+
 Camera Access       |   Web MediaDevices API
+
 File Uploads        |   FileReader API
+
 Networking          |   Fetch API with custom Exponential Backoff (handles 429 rate limits)
+
 AI Output           |   Structured JSON Mode (strict schema responses)
 
 
