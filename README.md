@@ -1,5 +1,6 @@
-## 🥗 EatWise AI — Your AI Food Co-Pilot
-# Live Link 
+# 🥗 EatWise AI — Your AI Food Co-Pilot
+## Live Link
+https://nilavvv.github.io/EatWise/
 
 
 An AI food co-pilot that doesn't just explain ingredients — it explains decisions.
